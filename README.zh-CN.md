@@ -161,53 +161,31 @@
       <sub>人像背景替换与时代广场霓虹补光。</sub>
     </td>
     <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/product-visuals%2Fexploded-view-poster%2F2"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/product-visuals/exploded-view-poster/2-thumb.webp" alt="产品爆炸图案例" width="100%"></a><br/>
-      <strong><code>exploded-view-poster</code></strong><br/>
-      <sub>Vision Pro 2 光机与算力模块拆解。</sub>
-    </td>
-    <td width="25%" align="center">
       <a href="https://gpt-image2.mmh1.top/#/case/ui-mockups%2Fchat-interface-scene%2F3"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/ui-mockups/chat-interface-scene/3-thumb.webp" alt="AI 助手 UI 样机案例" width="100%"></a><br/>
       <strong><code>chat-interface-scene</code></strong><br/>
       <sub>Claude 风格 AI 助手产品截图。</sub>
     </td>
-    <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/infographics%2Fbento-grid-infographic%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/infographics/bento-grid-infographic/1-thumb.webp" alt="便当格信息图案例" width="100%"></a><br/>
-      <strong><code>bento-grid-infographic</code></strong><br/>
-      <sub>iPhone 16 Pro 高密度一图流解析。</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/academic-figures%2Fneural-network-architecture%2F2"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/academic-figures/neural-network-architecture/2-thumb.webp" alt="神经网络架构图案例" width="100%"></a><br/>
-      <strong><code>neural-network-architecture</code></strong><br/>
-      <sub>适合论文配图的 ViT-B/16 架构图。</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/technical-diagrams%2Fsystem-architecture%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/technical-diagrams/system-architecture/1-thumb.webp" alt="系统架构图案例" width="100%"></a><br/>
-      <strong><code>system-architecture</code></strong><br/>
-      <sub>多租户 AI 客服 SaaS 生产架构。</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/branding-and-packaging%2Fcosmetic-packaging%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/branding-and-packaging/cosmetic-packaging/1-thumb.webp" alt="化妆品包装案例" width="100%"></a><br/>
-      <strong><code>cosmetic-packaging</code></strong><br/>
-      <sub>国货高端护肤礼盒与影棚主视觉。</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/storyboards-and-sequences%2Fanime-key-visual%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/storyboards-and-sequences/anime-key-visual/1-thumb.webp" alt="动漫主视觉案例" width="100%"></a><br/>
-      <strong><code>anime-key-visual</code></strong><br/>
-      <sub>游戏首发 KV 与可裁切主视觉构图。</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="25%" align="center">
       <a href="https://gpt-image2.mmh1.top/#/case/ui-mockups%2Flive-commerce-ui%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/ui-mockups/live-commerce-ui/1-thumb.webp" alt="直播带货 UI 案例" width="100%"></a><br/>
       <strong><code>live-commerce-ui</code></strong><br/>
       <sub>明星直播带货产品界面。</sub>
     </td>
     <td width="25%" align="center">
-      <a href="https://gpt-image2.mmh1.top/#/case/editing-workflows%2Fproduct-retouching%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/editing-workflows/product-retouching/1-thumb.webp" alt="产品精修案例" width="100%"></a><br/>
-      <strong><code>product-retouching</code></strong><br/>
-      <sub>电商主图级产品质感精修。</sub>
+      <a href="https://gpt-image2.mmh1.top/#/case/ui-mockups%2Fproduct-card-overlay%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/ui-mockups/product-card-overlay/1-thumb.webp" alt="产品落地页叠层案例" width="100%"></a><br/>
+      <strong><code>product-card-overlay</code></strong><br/>
+      <sub>护肤落地页 Hero 主视觉。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/infographics%2Fbento-grid-infographic%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/infographics/bento-grid-infographic/1-thumb.webp" alt="便当格信息图案例" width="100%"></a><br/>
+      <strong><code>bento-grid-infographic</code></strong><br/>
+      <sub>iPhone 16 Pro 高密度一图流解析。</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/technical-diagrams%2Fsystem-architecture%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/technical-diagrams/system-architecture/1-thumb.webp" alt="系统架构图案例" width="100%"></a><br/>
+      <strong><code>system-architecture</code></strong><br/>
+      <sub>多租户 AI 客服 SaaS 生产架构。</sub>
     </td>
     <td width="25%" align="center">
       <a href="https://gpt-image2.mmh1.top/#/case/slides-and-visual-docs%2Fdense-explainer-slides%2F2"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/slides-and-visual-docs/dense-explainer-slides/2-thumb.webp" alt="高密度讲解单页案例" width="100%"></a><br/>
@@ -218,6 +196,28 @@
       <a href="https://gpt-image2.mmh1.top/#/case/maps%2Ffood-map%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/maps/food-map/1-thumb.webp" alt="美食地图案例" width="100%"></a><br/>
       <strong><code>food-map</code></strong><br/>
       <sub>City Walk 编辑型美食地图。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/product-visuals%2Fexploded-view-poster%2F2"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/product-visuals/exploded-view-poster/2-thumb.webp" alt="产品爆炸图案例" width="100%"></a><br/>
+      <strong><code>exploded-view-poster</code></strong><br/>
+      <sub>Vision Pro 2 光机与算力模块拆解。</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/academic-figures%2Fneural-network-architecture%2F2"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/academic-figures/neural-network-architecture/2-thumb.webp" alt="神经网络架构图案例" width="100%"></a><br/>
+      <strong><code>neural-network-architecture</code></strong><br/>
+      <sub>适合论文配图的 ViT-B/16 架构图。</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/branding-and-packaging%2Fcosmetic-packaging%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/branding-and-packaging/cosmetic-packaging/1-thumb.webp" alt="化妆品包装案例" width="100%"></a><br/>
+      <strong><code>cosmetic-packaging</code></strong><br/>
+      <sub>国货高端护肤礼盒与影棚主视觉。</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://gpt-image2.mmh1.top/#/case/storyboards-and-sequences%2Fanime-key-visual%2F1"><img src="https://cdn.jsdelivr.net/gh/ConardLi/gpt-image-2-101@main/public/case/storyboards-and-sequences/anime-key-visual/1-thumb.webp" alt="动漫主视觉案例" width="100%"></a><br/>
+      <strong><code>anime-key-visual</code></strong><br/>
+      <sub>游戏首发 KV 与可裁切主视觉构图。</sub>
     </td>
   </tr>
 </table>

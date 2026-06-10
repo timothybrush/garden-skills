@@ -228,27 +228,6 @@
 
 ---
 
-### [`kb-retriever`](./skills/kb-retriever)
-
-![Kb Retriever Skill](https://cdn.jsdelivr.net/gh/ConardLi/assets@main/imgs/kb-retriever-skill.webp)
-
-**类别：** 检索 / 本地知识库  
-**适合：** 从本地 `knowledge/` 目录回答问题，检索结构化文档，并在不撑爆上下文的前提下从 Markdown、文本、PDF、Excel 中提取证据。
-
-`kb-retriever` 是一个本地知识库检索 Skill，核心是谨慎、渐进、可溯源。它不会直接加载整文件，而是先走分层索引，缩小候选范围，按文件类型正确处理，再带来源回答问题。
-
-亮点：
-
-- 通过分层 `data_structure.md` 文件先导航知识库，再进入内容检索
-- 对 PDF 和 Excel 强制执行 **先学习再处理**，必须先阅读内置 reference 文档
-- 组合关键词检索、局部窗口读取、同义词扩展和多轮迭代
-- 最多 5 轮检索，让探索过程有边界
-- 内置 `grep`、`pdftotext`、`pdfplumber`、`pandas` 工作流，并强调答案来源
-
-链接：[README](./skills/kb-retriever/README.zh-CN.md) · [SKILL.md](./skills/kb-retriever/SKILL.md) · <!-- DOWNLOAD:kb-retriever:start -->[下载 v1.0.1 .zip](https://github.com/ConardLi/garden-skills/releases/download/kb-retriever-v1.0.1/kb-retriever-1.0.1.zip)<!-- DOWNLOAD:kb-retriever:end -->
-
----
-
 ### [`beautiful-article`](./skills/beautiful-article)
 
 ![Beautiful Article Skill](https://cdn.jsdelivr.net/gh/ConardLi/assets@main/imgs/article/banner.webp)
@@ -287,6 +266,29 @@
 链接：[README](./skills/beautiful-article/README.zh-CN.md) · [SKILL.md](./skills/beautiful-article/SKILL.md) · <!-- DOWNLOAD:beautiful-article:start -->[下载 v0.1.0 .zip](https://github.com/ConardLi/garden-skills/releases/download/beautiful-article-v0.1.0/beautiful-article-0.1.0.zip)<!-- DOWNLOAD:beautiful-article:end -->
 
 ---
+
+
+### [`kb-retriever`](./skills/kb-retriever)
+
+![Kb Retriever Skill](https://cdn.jsdelivr.net/gh/ConardLi/assets@main/imgs/kb-retriever-skill.webp)
+
+**类别：** 检索 / 本地知识库  
+**适合：** 从本地 `knowledge/` 目录回答问题，检索结构化文档，并在不撑爆上下文的前提下从 Markdown、文本、PDF、Excel 中提取证据。
+
+`kb-retriever` 是一个本地知识库检索 Skill，核心是谨慎、渐进、可溯源。它不会直接加载整文件，而是先走分层索引，缩小候选范围，按文件类型正确处理，再带来源回答问题。
+
+亮点：
+
+- 通过分层 `data_structure.md` 文件先导航知识库，再进入内容检索
+- 对 PDF 和 Excel 强制执行 **先学习再处理**，必须先阅读内置 reference 文档
+- 组合关键词检索、局部窗口读取、同义词扩展和多轮迭代
+- 最多 5 轮检索，让探索过程有边界
+- 内置 `grep`、`pdftotext`、`pdfplumber`、`pandas` 工作流，并强调答案来源
+
+链接：[README](./skills/kb-retriever/README.zh-CN.md) · [SKILL.md](./skills/kb-retriever/SKILL.md) · <!-- DOWNLOAD:kb-retriever:start -->[下载 v1.0.1 .zip](https://github.com/ConardLi/garden-skills/releases/download/kb-retriever-v1.0.1/kb-retriever-1.0.1.zip)<!-- DOWNLOAD:kb-retriever:end -->
+
+---
+
 
 ## 安装
 
